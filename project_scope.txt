@@ -1,0 +1,13 @@
+Views
+  Monthly view: show all days in a month, and event snippet for each day
+  Weekly view: show all days in a week, and event snippet for each day
+  Daily view: show all events in a day, sorted by their starting time
+Events
+  Add an event with starting and ending time
+  Check time conflicts when adding events
+  Add periodical events
+  Edit & delete events
+  Event alert
+  Add/delete event categories
+  Color marking for different category of events
+  Add pictures to events
